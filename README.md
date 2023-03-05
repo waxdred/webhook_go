@@ -93,7 +93,7 @@ func main() {
 - footer_s (EmbedFooter, optional): an object specifying the footer of the embed
 - provider_s (EmbedProvider, optional): an object specifying the provider of the embed
 
-For more examples and detailed usage instructions, please see the GoDoc [documentation](https://pkg.go.dev/github.com/waxdred/Discord_webhook_go?utm_source=godoc).
+For more examples and detailed usage instructions, please see the GoDoc [documentation](https://pkg.go.dev/github.com/waxdred/webhook_go?utm_source=godoc).
 
 Contributing
 If you find a bug or would like to contribute to this library, please open an issue or pull request on the GitHub repository.
