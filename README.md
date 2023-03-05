@@ -1,6 +1,6 @@
 
 # Webhook Go
-![GitHub Workflow Status](https://github.com/waxdred/Discord_webhook_go/actions/workflows/go.yml/badge.svg)
+![GitHub Workflow Status](https://github.com/waxdred/webhook_go/actions/workflows/go.yml/badge.svg)
 ![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)
 
 Webhook-Go is a Go library for sending webhooks. With this library, you can send messages, and embeds to a using a webhook URL.
