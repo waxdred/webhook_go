@@ -15,9 +15,9 @@ Webhook-Go is a Go library for sending webhooks. With this library, you can send
 To use this library in your Go project, you can install it using go get:
 
 ```go
-go get github.com/waxdred/Discord_webhook_go
+go get github.com/waxdred/webhook_go
 import (
-	wk "github.com/waxdred/Discord_webhook_go"
+	wk "github.com/waxdred/webhook_go"
 )
 ```
 # Usage
@@ -29,7 +29,7 @@ import (
 package main
 
 import (
-   wk "github.com/waxdred/Discord_webhook_go"
+   wk "github.com/waxdred/webhook_go"
 )
 
 func main() {
